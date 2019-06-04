@@ -96,7 +96,7 @@ Here are some ideas to start with:
 1. Enabling sharing of page screenshot - Check `test.payload.js`.
 2. _Your idea of a new feature_?
 
-
+# install
 ## Acknowledgement
 
 * [Matthew Bryant](https://github.com/mandatoryprogrammer) for the XSS Hunter project.
