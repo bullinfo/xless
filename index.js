@@ -2,7 +2,7 @@
 // Version: v1.1
 // Author: Mazin Ahmed <mazin@mazinahmed.net>
 
-const express = require("express");
+const express = require("expressx");
 var bodyParser = require("body-parser");
 var cors = require("cors");
 const process = require("process");
