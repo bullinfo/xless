@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/bitbucket/issues-raw/mazen160/xless.svg?style=flat-square" alt="Issues" />
   <img src="https://img.shields.io/github/last-commit/mazen160/xless.svg?style=flat-square" alt="Last Commit" />
 </p>
-
+ggg
 ## :information_source: About The Project
 **Xless** is a serverless Blind XSS (bXSS) application that can be used to identify Blind XSS vulnerabilities using your own deployed version of the application.  
 There is no need to run a full deployment process; just setup a [zeit.co](https://zeit.co/) account and run `bash deploy.sh`.
