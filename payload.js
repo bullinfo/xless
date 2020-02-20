@@ -1,7 +1,7 @@
 // Xless: The serverlesss Blind XSS app.
 // Author: Mazin Ahmed <mazin@mazinahmed.net>
 
-console.log("Loaded xless.a");
+console.log("Loaded xless.xa");
 
 var collected_data = {};
 
